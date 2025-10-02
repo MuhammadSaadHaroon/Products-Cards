@@ -3,6 +3,7 @@ import "./Home.css";
 
 const Home = () => {
   return (
+    
     <div className="home-container">
       <h1>Welcome to Home Page 🏠</h1>
       <p>This is the Home page content. Explore our website to learn more!</p>

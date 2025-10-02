@@ -6,6 +6,7 @@ import About from "./components/About/About";
 import Products from "./components/Products/Products";
 import Contact from "./components/Contact/Contact";
 import Footer from './components/Footer/Footer';
+import Animation from './components/Animation/Animation'
 
 const App = () => {
   return (
