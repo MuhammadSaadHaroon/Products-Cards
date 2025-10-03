@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <Box component="footer" className="footer">
       <Typography variant="body2" className="footer-text">
-        © 2025 All Rights Reserved
+        © 2025 Muhammad Saad Haroon | All Rights Reserved
       </Typography>
     </Box>
   );
