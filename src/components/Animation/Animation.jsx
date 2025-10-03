@@ -1,4 +1,4 @@
-import { confetti } from "https://cdn.jsdelivr.net/npm/tsparticles-confetti/+esm";
+import { confetti } from "tsparticles-confetti";
 
 const end = Date.now() + 5 * 1000;
 
